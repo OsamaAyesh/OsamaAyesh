@@ -1,38 +1,53 @@
-<h1 align="center">👋 Hi, I'm Osama Ayash</h1>
-<h3 align="center">🚀 Flutter Developer | Mobile App Enthusiast</h3>
+<h1 align="center">🚀 Osama Ayash</h1>
+<h3 align="center">Flutter Developer | Digital Craftsman</h3>
 
 <p align="center">
-  Passionate about crafting clean, fast, and functional mobile apps using Flutter.<br>
-  I love turning creative ideas into powerful digital experiences.
+  💡 Turning ideas into beautiful and functional mobile apps.<br>
+  ❤️ Passionate about clean code, UI/UX, and performance.<br>
+  🌍 Based in Palestine | Available for freelance and collaboration.
 </p>
 
 ---
 
-### 🔧 Tech Stack
+### 🧠 About Me
+
+- 🔭 Currently working with **Flutter** & **Firebase**
+- 🎯 Focused on **Performance**, **User Experience**, and **Scalable Code Architecture**
+- 🛠 Exploring: BLoC, Clean Architecture, Payment Gateways, Firebase Auth, Rest APIs
+- 🧩 Designer-friendly: Can turn **Figma/XD** designs into pixel-perfect apps
+- ✨ I believe: *"Code is art — and I’m here to paint mobile experiences."*
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 📱 **Smart Delivery** | Multi-role delivery app with Firebase auth, real-time DB, and maps integration. | Flutter, Firebase, Google Maps |
+| 💰 **Money Tracker** | Personal finance manager with charts, categories, and local storage. | Flutter, Hive, Syncfusion |
+| 🧾 **Invoice Pro** | Invoice generation app with PDF export and multi-currency support. | Flutter, GetX, PDF, Local DB |
+
+> 💼 Want to showcase more? [Let’s connect!](#-lets-connect)
+
+---
+
+### 🧰 Tech Toolbox
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsamaAyesh&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaAyesh&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
-### 📫 Let's Connect
+### 🔗 Let's Connect
 
 <p align="left">
   <a href="https://www.instagram.com/osama.ayesh.52/" target="_blank">
@@ -51,4 +66,4 @@
 
 ---
 
-<p align="center">💡 *Always learning. Always building.*</p>
+<p align="center">🚀 Building the future, one Flutter app at a time.</p>
