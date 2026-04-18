@@ -1,4 +1,4 @@
-<h1 align="center">✨ Osama Ayash</h1>
+<h1 align="center"> Osama Ayash</h1>
 <h3 align="center">Mobile Engineer | Flutter Expert | Empowering Organizations with Innovative Apps | Delivering High-Performance Solutions for Positive Impact</h3>
 
 <p align="center">
